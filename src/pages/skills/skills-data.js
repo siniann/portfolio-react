@@ -82,7 +82,7 @@ export const skills = {
       imgAltText: "styled-components",
       imgSrc: L_STYLED_COMPONENTS,
       skillName: "styled-components",
-    },
+    }
     
   ],
 
@@ -98,7 +98,7 @@ export const skills = {
       imgAltText: "Express",
       imgSrc: L_EXPRESS,
       skillName: "Express",
-    },
+    }
    
    
   ],
@@ -129,7 +129,7 @@ export const skills = {
       imgAltText: "TypeScript",
       imgSrc: L_TYPESCRIPT,
       skillName: "TypeScript",
-    },
+    }
   
    
   ],
