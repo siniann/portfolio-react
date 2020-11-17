@@ -26,38 +26,30 @@ const About = () => {
                         <Col xs={12} md={6}>
                             <Row className=" align-items-start p-2 my-details rounded">
                                 Hi there! I am <strong>&nbsp;Sini Ann :)</strong>
-                <br />A passionate budding developer and a software enthusiast, born in Austria and brought up in India.
-                  <br />
-                  <br/>
-                  In 2020, I successfully completed my Masters degree in International Software system Science with specialization in 'Service Oriented Architectures' from the University of Bamberg, Germany. I completed my Bachelors in Computer Science and engineering from Mahatma Gandi University in India.
-                  <br />
-                  <br/>
-                  When it comes to woorking with the projects, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                  <br />
-<br/>
-                  I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products. Along with that, I also love to share the knowledge with other people .
-
-                  <br /> <br />
+                                <br />A passionate budding developer and a software enthusiast, born in Austria and brought up in India.
+                                <br />In 2020, I successfully completed my Masters degree in International Software system Science with specialization in 'Service Oriented Architectures' from the University of Bamberg, Germany. I completed my Bachelors in Computer Science and engineering from Mahatma Gandi University in India.
+                                <br />When it comes to woorking with the projects, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products. Along with that, I also love to share the knowledge with other people .
                                 <Col className="d-flex justify-content-center flex-wrap">
                                     <div>
                                         <a href="#contact">
                                             <Button className="m-2" variant="outline-primary">
                                                 Let's talk
-                        </Button>
+                                            </Button>
                                         </a>
                                     </div>
                                     <div>
                                         <a href="https://drive.google.com/file/d/1wqHUllqNEjU4Mig178r-1bYi7jZUF4K_/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-success">
                                                 My Resume
-                        </Button>
+                                            </Button>
                                         </a>
                                     </div>
                                     <div>
                                         <a href="https://github.com/siniann" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-dark">
                                                 GitHub
-                        </Button>
+                                             </Button>
                                         </a>
                                     </div>
                                     <div>
@@ -67,7 +59,7 @@ const About = () => {
                         </Button>
                                         </a>
                                     </div>
-                                </Col>
+                            </Col>
                             </Row>
                         </Col>
                     </Row>
