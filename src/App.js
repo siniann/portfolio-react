@@ -1,11 +1,15 @@
 //components
-import MyNavbar from "./components/my-navbar/mynavbar.component";
+import MyNavbar from "./components/my-navbar/my-navbar.component";
+import MyCorousal from "./components/my-corousal/my-corousal.component";
 import './App.css';
+import TitleMessage from "./components/title-message-typewriter/title-message-component";
 
-const App = () =>{
-  return( <div>
+const App = () => {
+  return (<div>
     <MyNavbar />
-    My Portfolio </div> );
+    <MyCorousal />
+    <TitleMessage />
+  </div>);
 }
 
 export default App;
