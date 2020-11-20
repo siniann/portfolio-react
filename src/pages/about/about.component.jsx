@@ -28,7 +28,7 @@ const About = () => {
                                 Hi there! I am <strong>&nbsp;Sini Ann :)</strong>
                                 <br />A passionate budding developer and a software enthusiast, born in Austria and brought up in India.
                                 <br />In 2020, I successfully completed my Masters degree in International Software system Science with specialization in 'Service Oriented Architectures' from the University of Bamberg, Germany. I completed my Bachelors in Computer Science and engineering from Mahatma Gandi University in India.
-                                <br />When it comes to woorking with the projects, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                                <br />When it comes to working with the projects, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                                 <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products. Along with that, I also love to share the knowledge with other people .
                                 <Col className="d-flex justify-content-center flex-wrap">
                                     <div>

@@ -15,7 +15,7 @@ import Experience from './pages/experience/experience.component';
 import './App.css';
 
 const App = () => {
-  return (<div lassName="App" style={{ position: "relative" }}>
+  return (<div className="App" style={{ position: "relative" }}>
     <MyNavbar />
     <MyCorousal />
     <TitleMessage />
@@ -29,7 +29,7 @@ const App = () => {
         >
           <div>
             <Container className="container-box rounded">
-              <Fade duration={500}>
+              <Fade left duration={500} >
                 <About />
               </Fade>
             </Container>
@@ -37,14 +37,14 @@ const App = () => {
         </Parallax>
     </div>
     <Container className="container-box rounded">
-        <Slide bottom duration={500}>
+        <Slide left duration={500}>
           <hr />
           <Skills />
         </Slide>
       </Container>
       <div>
         <Container className="container-box rounded">
-          <Fade duration={500}>
+          <Fade left duration={500}  >
             <hr />
 
             <Experience />
